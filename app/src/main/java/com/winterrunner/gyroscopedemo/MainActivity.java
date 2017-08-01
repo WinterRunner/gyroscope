@@ -1,10 +1,17 @@
 package com.winterrunner.gyroscopedemo;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 
-import com.winterrunner.gyroscopedemo.manager.GyroscopeManager;
-import com.winterrunner.gyroscopedemo.view.XImageView;
+import com.winterrunner.xgyroscope.GyroscopeManager;
+import com.winterrunner.xgyroscope.XImageView;
+
+/**
+ * author: L.K.X
+ * created on: 2017/7/20 下午3:20
+ * description:
+ */
+
 
 public class MainActivity extends AppCompatActivity {
 

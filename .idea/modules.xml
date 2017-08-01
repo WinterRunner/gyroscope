@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/gyroscope.iml" filepath="$PROJECT_DIR$/gyroscope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xgyroscope/xgyroscope.iml" filepath="$PROJECT_DIR$/xgyroscope/xgyroscope.iml" />
     </modules>
   </component>
 </project>
